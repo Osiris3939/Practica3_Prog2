@@ -1,0 +1,15 @@
+================================================================================
+INSTITUTO TECNOLÓGICO DE LAS AMÉRICAS (ITLA)
+CARRERA: Tecnólogo en Desarrollo de Software
+ASIGNATURA: Programación 2 (Programación Orientada a Objetos)
+DOCENTE: Eduandy Isabel Cruz Abreu
+EVALUACIÓN: Práctica 3 - Estructuras de Datos (Listas, Pilas y Colas)
+================================================================================
+
+DATOS DEL ESTUDIANTE:
+- Nombre Completo: Franklyn Enmanuel Santana Rodríguez
+- Matrícula: 2025-2089
+- Modalidad: Proyecto Individual (Autorizado por la docente)
+
+REPOSITORIO DEL PROYECTO:
+- GitHub: https://github.com/Osiris3939/Practica3_Prog2
