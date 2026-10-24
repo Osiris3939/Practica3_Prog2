@@ -38,6 +38,7 @@ namespace Practica3_Prog2
 
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.Title = "Práctica 3 - Estructuras de Datos (Listas, Pilas y Colas) | ITLA";
 
             bool continuarEnSistema = true;

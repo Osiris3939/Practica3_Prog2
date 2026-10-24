@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Practica3_Prog2\bin\Debug\net8.0\Practica3_Prog2.exe
+C:\Users\user\Desktop\Practica3_Prog2\bin\Debug\net8.0\Practica3_Prog2.deps.json
+C:\Users\user\Desktop\Practica3_Prog2\bin\Debug\net8.0\Practica3_Prog2.runtimeconfig.json
+C:\Users\user\Desktop\Practica3_Prog2\bin\Debug\net8.0\Practica3_Prog2.dll
+C:\Users\user\Desktop\Practica3_Prog2\bin\Debug\net8.0\Practica3_Prog2.pdb
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.AssemblyInfo.cs
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.sourcelink.json
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.dll
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\refint\Practica3_Prog2.dll
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.pdb
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\Practica3_Prog2.genruntimeconfig.cache
+C:\Users\user\Desktop\Practica3_Prog2\obj\Debug\net8.0\ref\Practica3_Prog2.dll
